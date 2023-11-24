@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2325406129550143555}
   - component: {fileID: 5918114415226807179}
   - component: {fileID: -3506227052366531812}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Beach Ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
